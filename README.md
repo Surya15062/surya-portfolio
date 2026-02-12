@@ -1,25 +1,11 @@
-# Surya – Portfolio
 
-This repository contains my personal portfolio showcasing my projects, skills,
-and work samples in UI/UX design and software development.
+  # Personal Portfolio Website Design
 
-## 🔧 Skills
-- UI/UX Design (Figma, Wireframing, Prototyping)
-- Java (Core Java, OOP, JDBC)
-- SQL
-- HTML, CSS (Basics)
+  This is a code bundle for Personal Portfolio Website Design. The original project is available at https://www.figma.com/design/LYqTLCzOtzLuqMapoLSolJ/Personal-Portfolio-Website-Design.
 
-## 📁 Projects
-### UI/UX Projects
-- Expense Tracker App – Mobile UI design focused on usability
-- Bus Ticket Booking App – Clean and accessible booking flow
-- Personal Portfolio Website – Responsive layout design
+  ## Running the code
 
-### Development Projects
-- Student Management System (Java + JDBC)
-- Bus Overcrowding Detection System (Academic Project)
+  Run `npm i` to install the dependencies.
 
-## 🔗 Portfolio
-- Figma: https://www.figma.com/
-- GitHub: https://github.com/Surya15062
-- LinkedIn: https://linkedin.com/in/s-surya-6b9b6329b
+  Run `npm run dev` to start the development server.
+  
